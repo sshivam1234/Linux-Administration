@@ -1,0 +1,1 @@
+ls, pwd, mkdir, touch, chmod, chown
